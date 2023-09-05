@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first-year PhD student at University of Southern California, majoring in Computer Science. I am lucky to be advised by [Prof. Victor Prasanna](https://sites.usc.edu/prasanna/). 
 
-Before coming to USC, I completed my master's degree in computer science at Boston University, where I am honored to work with [Prof. Charalampos E. Tsourakakis](https://www.bu.edu/cs/profiles/charalampos-tsourakakis/)  and [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin). I received my bachelor's degree from The Chinese University of Hong Kong, where I am advised by Prof. [LIEW Soung Chang](https://www.ie.cuhk.edu.hk/faculty/liew-soung-chang/) and [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/)
+Before coming to USC, I completed my master's degree in computer science at Boston University, where I am honored to work with [Prof. Charalampos E. Tsourakakis](https://www.bu.edu/cs/profiles/charalampos-tsourakakis/)  and [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin). I received my bachelor's degree from The Chinese University of Hong Kong, where I am advised by Prof. [LIEW Soung Chang](https://www.ie.cuhk.edu.hk/faculty/liew-soung-chang/) and [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
 My research interests include data mining, graph neural network, and adversarial machine learning. 
 
