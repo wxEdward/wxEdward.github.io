@@ -23,19 +23,9 @@ Before coming to USC, I completed my master's degree in computer science at Bost
 
 My research interests include data mining, graph neural network, and adversarial machine learning. 
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SocInfo 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Polarizing Opinion Dynamics with Confirmation Bias](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_9)
-
-Tianyi Chen, **Xu Wang**, Charalampos E. Tsourakakis
+[Polarizing Opinion Dynamics with Confirmation Bias](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_9), Tianyi Chen, **Xu Wang**, Charalampos E. Tsourakakis
 
 # 🎖 Honors and Awards
 
