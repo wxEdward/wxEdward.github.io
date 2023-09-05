@@ -25,7 +25,7 @@ My research interests include data mining, graph neural network, and adversarial
 
 # 📝 Publications 
 
-``SocInfo 2022``[Polarizing Opinion Dynamics with Confirmation Bias](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_9), Tianyi Chen, **Xu Wang**, Charalampos E. Tsourakakis
+- ``SocInfo 2022`` [Polarizing Opinion Dynamics with Confirmation Bias](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_9), Tianyi Chen, **Xu Wang**, Charalampos E. Tsourakakis
 
 # 🎖 Honors and Awards
 
