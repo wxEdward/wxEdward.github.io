@@ -45,5 +45,6 @@ My research interests include data mining, graph neural network, and adversarial
 - *2022.04*, Introduction to Scikit Learn, BU MiniHacks For Good Workshop
 
 # 💻 Work Experiences
+- *08/2024 - Present*, Teaching Assistant for CSCI 270, USC, LA
 - *01/2022 - 05/2022*, Teaching Assistant for DS 549, BU, Boston
 - *06/2019 - 08/2019*, Editorial Intern, Forbes China, Shanghai.
