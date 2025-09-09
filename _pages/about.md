@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at University of Southern California, majoring in Computer Science. I am lucky to be advised by [Prof. Victor Prasanna](https://sites.usc.edu/prasanna/). 
+I am a third-year PhD student at University of Southern California, majoring in Computer Science. I am lucky to be advised by [Prof. Victor Prasanna](https://sites.usc.edu/prasanna/). 
 
 Before coming to USC, I completed my master's degree in computer science at Boston University, where I am honored to work with [Prof. Charalampos E. Tsourakakis](https://www.bu.edu/cs/profiles/charalampos-tsourakakis/)  and [Prof. Peter Chin](https://engineering.dartmouth.edu/community/faculty/peter-chin). I received my bachelor's degree from The Chinese University of Hong Kong, where I am advised by Prof. [LIEW Soung Chang](https://www.ie.cuhk.edu.hk/faculty/liew-soung-chang/) and [Prof. James Cheng](https://www.cse.cuhk.edu.hk/~jcheng/).
 
@@ -25,6 +25,7 @@ My research interests include data mining, graph neural network, and adversarial
 
 # 📝 Publications 
 
+- `` CIKM 2025`` [Unified Robustness via Spurious-Invariant Features and On-Manifold Adversaries](https://doi.org/10.1145/3746252.3760809), **Xu Wang**, Rajgopal Kannan, Viktor Prasanna
 - ``SPIE Defense + Commercial Sensing 2024`` [Graph Contrastive Learning based Adversarial Training for SAR Image Classification](https://doi.org/10.1117/12.3014067), **Xu Wang**, Tian Ye, Rajgopal Kannan, Viktor Prasanna
 - ``RadarConf 2024`` [FACTUAL: A Novel Framework for Contrastive Learning Based Robust SAR Image Classification](https://arxiv.org/html/2404.03225v1), **Xu Wang**, Tian Ye, Rajgopal Kannan, Viktor Prasanna
 - ``Complex Network 2023`` [Learned Approximate Distance Labels for Graphs](https://link.springer.com/chapter/10.1007/978-3-031-53468-3_29), Ikeoluwa Abioye, Allison Gunby-Mann, **Xu Wang**, Sarel Cohen, and Peter Chin
@@ -45,6 +46,8 @@ My research interests include data mining, graph neural network, and adversarial
 - *2022.04*, Introduction to Scikit Learn, BU MiniHacks For Good Workshop
 
 # 💻 Work Experiences
-- *08/2024 - Present*, Teaching Assistant for CSCI 270, USC, LA
+- *06/2025 - 08/2025*, Teaching Assistant for CSCI 570, USC, LA
+- *01/2024 - 05/2025*, Teaching Assistant for DSCI 561, USC, LA
+- *08/2024 - 12/2024*, Teaching Assistant for CSCI 270, USC, LA
 - *01/2022 - 05/2022*, Teaching Assistant for DS 549, BU, Boston
 - *06/2019 - 08/2019*, Editorial Intern, Forbes China, Shanghai.
